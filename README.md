@@ -30,3 +30,7 @@ Arguments:
     Rate: 100-60000 (Number of milliseconds. Default: 10000ms)
     Brightness: 0-100 (Percentage. Default: 100%)
 ```
+## Example
+```
+sudo ./g203-led.py breathe 28a745 10000 10
+```
